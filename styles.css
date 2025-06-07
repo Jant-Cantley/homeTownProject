@@ -30,7 +30,8 @@ img {
 
 .header {
     text-shadow: 0 0 4px black;
-    margin: 0 auto;
+    margin: 10px auto;
+    border-radius: 5px;
 }
 
 h1 {
