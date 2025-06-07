@@ -51,7 +51,7 @@ h1 {
     align-items: center;
 }
 
-#activities-header {
+/* #activities-header {
     margin: 10px auto;
 }
 
@@ -70,7 +70,7 @@ h1 {
 
 #restaurant-brewery {
     display: block;
-}
+} */
 
 .guide {
     border: 5px dotted navy;
