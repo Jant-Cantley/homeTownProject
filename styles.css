@@ -19,10 +19,10 @@ img {
 
 .hero {
     background: url(./images/rfdDowntown.jpg);
-    margin: 0;
+    background-size: cover;
 }
 
 .activities {
     display: flex;
-    flex-direction: column;
+    align-items: center;
 }
