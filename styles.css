@@ -50,6 +50,10 @@ h1 {
     align-items: center;
 }
 
+#activities-header {
+    margin: 10px auto;
+}
+
 .activity-sec {
     display: block;
 }
