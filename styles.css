@@ -55,9 +55,8 @@ h1 {
 }
 
 .activity-sec {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+    display: block;
+    margin: 10px auto;
 }
 
 .guide {
