@@ -89,6 +89,6 @@ h1 {
 }
 
 a:hover {
-    text-decoration: none;
+    font-size: larger;
     color: #260F26;
 }
