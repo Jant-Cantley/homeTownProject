@@ -76,8 +76,14 @@ h1 {
     flex-direction: row;
     background: #457B9D;
     border-bottom: 5px solid #1D3557;
+    border-radius: 25px;
 }
 
 .guide-image {
     border-radius: 0;
+}
+
+#guide-blurb {
+    margin: 20px 10px;
+    font-style: italic;
 }
