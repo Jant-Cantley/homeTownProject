@@ -62,6 +62,10 @@ h1 {
     padding: 15px;
 }
 
+.activity-box {
+    width: 50px;
+}
+
 .guide {
     border: 5px dotted navy;
     display: inline-block;
