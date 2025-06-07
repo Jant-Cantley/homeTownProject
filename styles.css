@@ -46,31 +46,33 @@ h1 {
 .activities {
     border-radius: 0 25px 0 25px;
     color: #251F47;
-    display: block;
+    display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-/* #activities-header {
+#activities-header {
     margin: 10px auto;
 }
 
-.activity-sec {
+/* .activity-sec {
     margin: 10px auto;
-    display: inline;
-}
+} */
 
 #touch-grass {
     display: block;
+    margin: 10px auto;
 }
 
 #bar {
     display: block;
+    margin: 10px auto;
 }
 
 #restaurant-brewery {
     display: block;
-} */
+    margin: 10px auto;
+}
 
 .guide {
     border: 5px dotted navy;
