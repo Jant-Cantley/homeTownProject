@@ -22,11 +22,19 @@ img {
     background: url(./images/rfdDowntown.jpg);
     background-size: cover;
     padding: 10px 0 40px 0;
+    color: white;
 }
 
-.header{
-    color: #251F47;
+.header {
     text-shadow: 0 0 4px black;
+}
+
+h1 {
+    background: #71B48D;
+}
+
+#hero-p {
+    background: #404E7C;
 }
 
 .activities {
