@@ -11,12 +11,11 @@ DARK BLUE: #1D3557
 body {
     margin: 0;
     text-align: center;
-    display: block;
 }
 
 img {
     width: 100px;
-    border-radius: 25px;
+    border-radius: 50px;
 }
 
 #hero {
@@ -57,7 +56,6 @@ h1 {
 }
 
 .activity-sec {
-    display: block;
     margin: 10px auto;
 }
 
