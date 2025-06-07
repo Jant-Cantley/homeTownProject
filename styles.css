@@ -70,11 +70,11 @@ h1 {
 .guide {
     margin: 10px auto;
     padding: 20px 40px;
-    border: 5px dotted navy;
     display: flex;
+    justify-content: space-around;
     flex-direction: row;
     background: #457B9D;
-    border-bottom: #1D3557;
+    border-bottom: 5px solid #1D3557;
 }
 
 .guide-image {
