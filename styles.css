@@ -17,10 +17,11 @@ img {
     width: 100px;
 }
 
-.hero {
+#hero {
     background: url(./images/rfdDowntown.jpg);
     background-size: cover;
     padding: 10px 0 40px 0;
+    width: 400px;
 }
 
 .activities {
