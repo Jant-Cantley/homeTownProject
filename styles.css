@@ -21,10 +21,15 @@ img {
     background: url(./images/rfdDowntown.jpg);
     background-size: cover;
     padding: 10px 0 40px 0;
-    width: 450px;
+    width: 500px;
 }
 
 .activities {
     display: flex;
     align-items: center;
+}
+
+.guide {
+    border: 5px dotted navy;
+    display: inline-block;
 }
