@@ -50,6 +50,10 @@ h1 {
     align-items: center;
 }
 
+.activity-sec {
+    display: block;
+}
+
 .guide {
     border: 5px dotted navy;
     display: inline-block;
