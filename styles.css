@@ -15,6 +15,7 @@ body {
 
 img {
     width: 100px;
+    border-radius: 25px;
 }
 
 #hero {
@@ -57,6 +58,18 @@ h1 {
 .activity-sec {
     display: block;
     margin: 10px auto;
+}
+
+#touch-grass {
+    display: block;
+}
+
+#bar {
+    display: block;
+}
+
+#restaurant-brewery {
+    display: block;
 }
 
 .guide {
