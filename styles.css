@@ -60,17 +60,17 @@ h1 {
     display: inline;
 }
 
-/* #touch-grass {
-    display: inline-block;
+#touch-grass {
+    display: block;
 }
 
 #bar {
-    display: inline-block;
+    display: block;
 }
 
 #restaurant-brewery {
-    display: inline-block;
-} */
+    display: block;
+}
 
 .guide {
     border: 5px dotted navy;
