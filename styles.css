@@ -74,3 +74,9 @@ h1 {
     display: flex;
     flex-direction: row;
 }
+
+.guide-image {
+    width: 140px;
+    height: 145px;
+    border-radius: 20px 0;
+}
