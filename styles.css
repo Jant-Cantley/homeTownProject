@@ -55,11 +55,12 @@ h1 {
     margin: 10px auto;
 }
 
-/* .activity-sec {
+.activity-sec {
     margin: 10px auto;
-} */
+    display: inline-block;
+}
 
-#touch-grass {
+/* #touch-grass {
     display: inline-block;
 }
 
@@ -69,7 +70,7 @@ h1 {
 
 #restaurant-brewery {
     display: inline-block;
-}
+} */
 
 .guide {
     border: 5px dotted navy;
