@@ -55,11 +55,13 @@ h1 {
     margin: 10px auto;
 }
 
-/* .activity-sec {
+.activity-sec {
+    display: flex;
+    flex-direction: row;
     margin: 10px auto;
-} */
+}
 
-#touch-grass {
+/* #touch-grass {
     display: block;
     margin: 10px auto;
 }
@@ -72,7 +74,7 @@ h1 {
 #restaurant-brewery {
     display: block;
     margin: 10px auto;
-}
+} */
 
 .guide {
     border: 5px dotted navy;
