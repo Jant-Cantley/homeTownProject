@@ -30,6 +30,7 @@ img {
 
 .header {
     text-shadow: 0 0 4px black;
+    margin: 0 auto;
 }
 
 h1 {
@@ -41,7 +42,7 @@ h1 {
 }
 
 .activities {
-
+    color: #251F47;
 }
 
 .guide {
