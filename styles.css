@@ -58,22 +58,8 @@ h1 {
 .activity-sec {
     display: flex;
     flex-direction: row;
-    margin: 10px auto;
-}
-
-#touch-grass {
-    display: block;
-    margin: 10px auto;
-}
-
-#bar {
-    display: block;
-    margin: 10px auto;
-}
-
-#restaurant-brewery {
-    display: block;
-    margin: 10px auto;
+    margin: 20px auto;
+    padding: 15px;
 }
 
 .guide {
