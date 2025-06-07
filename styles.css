@@ -11,6 +11,9 @@ DARK BLUE: #1D3557
 body {
     margin: 0;
     text-align: center;
+    width: 710px;
+    display: flex;
+    align-items: center;
 }
 
 img {
@@ -21,13 +24,15 @@ img {
     background: url(./images/rfdDowntown.jpg);
     background-size: cover;
     padding: 10px 0 40px 0;
-    width: 710px;
-    height: 350px;
+}
+
+.header{
+    color: #251F47;
+    text-shadow: 0 0 4px black;
 }
 
 .activities {
-    display: flex;
-    align-items: center;
+
 }
 
 .guide {
