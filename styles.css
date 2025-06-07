@@ -46,7 +46,7 @@ h1 {
 .activities {
     border-radius: 0 25px 0 25px;
     color: #251F47;
-    display: flex;
+    display: block;
     flex-direction: row;
     align-items: center;
 }
