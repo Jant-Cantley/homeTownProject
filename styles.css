@@ -56,20 +56,19 @@ h1 {
 }
 
 .activity-sec {
-    display: inline;
     margin: 10px auto;
 }
 
 #touch-grass {
-    display: block;
+    display: inline-block;
 }
 
 #bar {
-    display: block;
+    display: inline-block;
 }
 
 #restaurant-brewery {
-    display: block;
+    display: inline-block;
 }
 
 .guide {
