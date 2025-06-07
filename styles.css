@@ -23,6 +23,9 @@ img {
     background-size: cover;
     padding: 10px 0 40px 0;
     color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .header {
