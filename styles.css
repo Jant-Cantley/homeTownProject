@@ -12,8 +12,6 @@ body {
     margin: 0;
     text-align: center;
     width: 710px;
-    display: flex;
-    align-items: center;
 }
 
 img {
