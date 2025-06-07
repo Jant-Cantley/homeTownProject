@@ -20,6 +20,7 @@ img {
 .hero {
     background: url(./images/rfdDowntown.jpg);
     background-size: cover;
+    padding: 10px 0 40px 0;
 }
 
 .activities {
