@@ -63,17 +63,18 @@ h1 {
 }
 
 .activity-box {
-    background: #457B9D;
     margin: 20px auto;
     padding: 30px 10px;
 }
 
 .guide {
-    /* margin: 10px auto; */
+    margin: 10px auto;
+    padding: 20px 40px;
     border: 5px dotted navy;
     display: flex;
     flex-direction: row;
-    align-items: center;
+    background: #457B9D;
+    border-bottom: #1D3557;
 }
 
 .guide-image {
