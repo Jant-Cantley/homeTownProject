@@ -91,7 +91,7 @@ h1 {
 #beer {
     width: 100px;
     border-radius: 50px;
-    background-image: url(./images/barSign.jpg);
+    background-image: url("./images/barSign.jpg");
 }
 
 a:hover {
