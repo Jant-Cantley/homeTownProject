@@ -91,13 +91,14 @@ h1 {
 .beer {
     width: 100px;
     border-radius: 50px;
-    background-image: url("./images/barSign.jpg");
+    background-image: url(./images/barSign.jpg);
 }
 
 a:hover {
     text-decoration: none;
     color: #260F26;
 }
+
 #beer:hover {
-    background-image: url("./images/beer.gif");
+    background-image: url(./images/beer.gif);
 }
