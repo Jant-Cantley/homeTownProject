@@ -92,3 +92,6 @@ a:hover {
     font-size: larger;
     color: #260F26;
 }
+#beer:hover {
+    background-image: url("./images/beer.gif");
+}
