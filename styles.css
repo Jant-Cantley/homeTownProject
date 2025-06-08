@@ -88,6 +88,10 @@ h1 {
     font-style: italic;
 }
 
+.beer {
+    background-image: url("./barSign.jpg");
+}
+
 a:hover {
     font-size: larger;
     color: #260F26;
