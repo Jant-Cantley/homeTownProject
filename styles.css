@@ -88,11 +88,11 @@ h1 {
     font-style: italic;
 }
 
-#beer {
+/* #beer {
     width: 100px;
     border-radius: 50px;
     background-image: url("./images/barSign.jpg");
-}
+} */
 
 a:hover {
     text-decoration: none;
